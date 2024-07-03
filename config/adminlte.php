@@ -342,8 +342,8 @@ return [
                     'url' => 'program-studi',
                 ],
                 [
-                    'text' => 'level_one',
-                    'url' => '#',
+                    'text' => 'fakultas',
+                    'url' => 'fakultas',
                 ],
                 [
                     'text' => 'level_one',
