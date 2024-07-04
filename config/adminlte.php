@@ -346,6 +346,10 @@ return [
                     'url' => 'fakultas',
                 ],
                 [
+                    'text' => 'data sekolah',
+                    'url' => 'sekolah',
+                ],
+                [
                     'text' => 'level_one',
                     'url' => '#',
                     'submenu' => [
